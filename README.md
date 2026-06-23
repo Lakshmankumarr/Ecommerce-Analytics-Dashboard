@@ -146,14 +146,6 @@ Provides insights into customer purchasing behavior and retention opportunities.
 
 ---
 
-## Screenshots
-
-### Analytics Dashboard
-
-![Dashboard](Business_insights_dashboard.png)
-
-###
-
 ---
 
 ## Exploratory Data Analysis (EDA)
