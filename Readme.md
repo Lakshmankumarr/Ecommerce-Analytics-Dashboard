@@ -246,7 +246,7 @@ notebooks/EDA.ipynb
 
 ### Dashboard Screenshots
 
-![Analytics Dashboard](screenshots/Business_insights_dashboard.png)
+![Analytics Dashboard](screenshots/Bussiness_insights_dashboard.png)
 
 ### Open Dashboard
 
