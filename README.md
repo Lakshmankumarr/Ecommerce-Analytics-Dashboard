@@ -79,14 +79,6 @@ Ecommerce-Analytics-Dashboard/
 
 ---
 
-# 📈 Dashboard Preview
-
-## Power BI Dashboard
-
-![Dashboard](screenshots/Dashboard.png.png)
-
----
-
 ## Business Insights Dashboard
 
 ![Business Insights](screenshots/Bussiness_insghts_dashboard.png)
